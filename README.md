@@ -61,7 +61,8 @@ The API endpoint returns JSON documents like these:
  coreCountry: false,
  distance: null
  }
- ]```
+ ]
+```
 
 The endpoint always responds with a JSON array that contains JSON objects as elements. Each object, among other keys, has a name and a geo_position key.
 The geo_position key is an object with latitude and longitude fields.
