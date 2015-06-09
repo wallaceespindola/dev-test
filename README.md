@@ -1,8 +1,8 @@
 Java Developer Test
 ===================
 
-The purpose of this test is to see how you approach a problem and what your solutions look like. The requirements for this test are simple and
-should be straightforward to grasp. That said:
+The purpose of this test is to see how you approach a problem and what your solutions look like. The requirements for this test are simple and should be straightforward to grasp. When implementing a solution, please keep things but well engineered as you would do for production code. We will review your test carefully, this will be an important part of application process.
+That said:
 Implement an API query and transform this data into a csv file
 Create a Java command line tool that takes as an input parameter a string
 
@@ -76,9 +76,8 @@ longitude
 Your solution
 =============
 
-Please implement your solution as a stand alone application which can be started from the command line, i.e. send us a fat jar file with all
-dependencies. You can use Java 7 and open source libraries that you think help you to fulfill this task.
+Please implement your solution as a stand alone application which can be started from the command line, i.e. send us a fat jar file with all dependencies. You can use Java 7 and open source libraries that you think help you to fulfill this task.
 Also send us the source code to your solution. We use GitHub, so if you put your source code into a GitHub repository, it will make our life easier.
-We will evaluate your source code as well as the functionality of the program: Does it run, how does it handle errors, etc.
-
+We will evaluate your source code as well as the functionality of the program: Does it run, how does it handle errors, how well-engineered is the architecture etc.
 Thank you!
+
