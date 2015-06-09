@@ -1,7 +1,7 @@
 Java Developer Test
 ===================
 
-The purpose of this test is to see how you approach a problem and what your solutions look like. The requirements for this test are simple and should be straightforward to grasp. When implementing a solution, please keep things but well engineered as you would do for production code. We will review your test carefully, this will be an important part of application process.
+The purpose of this test is to see how you approach a problem and what your solutions look like. The requirements for this test are simple and should be straightforward to grasp. When implementing a solution, please keep things simple but well engineered - as you would do for production code. 
 That said:
 Implement an API query and transform this data into a csv file
 Create a Java command line tool that takes as an input parameter a string
